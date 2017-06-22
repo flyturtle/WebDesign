@@ -1,0 +1,81 @@
+
+  <!-- <div id="agegate_containter" style="display: block;">
+	  <div id="agegate_logo">
+	    <img src="img\cdp_witcher_gate_logo_en.png" alt="img\cdp_witcher_gate_logo_en.png" /></div>
+    <div id="agegate_form">
+      <div class="inputs">
+         <input type="text" placeholder="MM" id="month" value="" maxlength="2">
+         <input type="text" placeholder="DD" id="day" value="" maxlength="2">
+         <input type="text" placeholder="YYYY" id="year" value="" maxlength="4">
+         <input type="button" id="go" value="GO">
+      </div>
+	   <input type="hidden" id="acceptAge" value="18">
+    </div>
+  </div> -->
+//
+#agegate_container{
+  background: #101010 url(../block/img/Witcher_3_Main_Characters.jpg) 50% 0 no-repeat;
+  font-family: arial;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 9999;
+  display: none;
+  }
+ #agegate_logo{ 
+ text-align: center;
+  padding-top: 30px;
+}
+ #agegate_form {
+        width: 300px;
+        background: #111;
+        color: #fff;
+        margin: 20px auto 0 auto;
+		@include border-radius(3px);
+	.wide {
+	width: 500px;
+	> div {
+		background: #222;
+		text-align: center;
+		padding: 20px 0;
+	}
+}
+}
+
+/* // */
+#agegate_form div.inputs{
+background: #222;
+ text-align: center;
+ padding: 20px 0;
+}
+#agegate_form div.inputs input{
+display: inline-block;
+ outline: none;
+ -webkit-appearance: none;
+ -moz-appearance: textfield;
+ background: #000;
+ text-align: center;
+ width: 40px;
+ color: #fff;
+ height: 30px;
+ margin: 0;
+ padding: 0;
+ border: 1px solid #a52731;
+ line-height: 30px;
+ font-size: 14px;
+ font-weight: bold;
+}
+#agegate_form div.inputs input#year{width: 50px;
+}
+#agegate_form div.inputs input#go{width: 50px;
+ background: #a52731;
+ color: #fff;
+ font-weight: normal;
+ cursor: pointer;
+ height: 32px;
+}
+#agegate_form div.inputs input[type=number]:focus{border-color: #555;
+
+}

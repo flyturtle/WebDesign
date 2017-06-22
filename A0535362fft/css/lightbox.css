@@ -1,0 +1,29 @@
+/* line 1, ../scss/lightbox.scss */
+.caption-container {
+  text-align: center;
+  background-color: black;
+  padding: 2px 16px;
+  color: white;
+}
+
+/* line 8, ../scss/lightbox.scss */
+img.demo {
+  opacity: 0.6;
+  width: 40vw;
+}
+
+/* line 13, ../scss/lightbox.scss */
+.active,
+.demo:hover {
+  opacity: 1;
+}
+
+/* line 18, ../scss/lightbox.scss */
+img.hover-shadow {
+  transition: 0.3s;
+}
+
+/* line 22, ../scss/lightbox.scss */
+.hover-shadow:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

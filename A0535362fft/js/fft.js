@@ -1,4 +1,5 @@
 $(document).ready(function(){
+	
 	var _headerbg_now = 1;
 	var _length = $("#headerbg > div").length;
 	
@@ -17,10 +18,13 @@ $(document).ready(function(){
 		_headerbg_now = _headerbg_now - 1;
 		if (_headerbg_now < 1) _headerbg_now = _length;
 	$('#headerbg_now').text ("0" + _headerbg_now);	 
-	$("#headerbg").attr('class', 'n' + _headerbg_now).fadeOut( "slow" );
+	$("#headerbg").attr('class', 'n' + _headerbg_now);
 	});
 
-	
+	$('#header_down').click(function(){	
+		$('window').scrollTop();
+	     $('#header_control').fadeOut(2000);
+	});
 });
 
 

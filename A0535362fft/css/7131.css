@@ -103,6 +103,26 @@ body {
   left: 400%;
 }
 /* line 27, ../scss/7131.scss */
+#headerbg.n1 > div:nth-child(6) {
+  left: 500%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n1 > div:nth-child(7) {
+  left: 600%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n1 > div:nth-child(8) {
+  left: 700%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n1 > div:nth-child(9) {
+  left: 800%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n1 > div:nth-child(10) {
+  left: 900%;
+}
+/* line 27, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(1) {
   left: -100%;
 }
@@ -121,6 +141,26 @@ body {
 /* line 27, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(5) {
   left: 300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n2 > div:nth-child(6) {
+  left: 400%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n2 > div:nth-child(7) {
+  left: 500%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n2 > div:nth-child(8) {
+  left: 600%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n2 > div:nth-child(9) {
+  left: 700%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n2 > div:nth-child(10) {
+  left: 800%;
 }
 /* line 27, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(1) {
@@ -143,6 +183,26 @@ body {
   left: 200%;
 }
 /* line 27, ../scss/7131.scss */
+#headerbg.n3 > div:nth-child(6) {
+  left: 300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n3 > div:nth-child(7) {
+  left: 400%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n3 > div:nth-child(8) {
+  left: 500%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n3 > div:nth-child(9) {
+  left: 600%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n3 > div:nth-child(10) {
+  left: 700%;
+}
+/* line 27, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(1) {
   left: -300%;
 }
@@ -163,6 +223,26 @@ body {
   left: 100%;
 }
 /* line 27, ../scss/7131.scss */
+#headerbg.n4 > div:nth-child(6) {
+  left: 200%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n4 > div:nth-child(7) {
+  left: 300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n4 > div:nth-child(8) {
+  left: 400%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n4 > div:nth-child(9) {
+  left: 500%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n4 > div:nth-child(10) {
+  left: 600%;
+}
+/* line 27, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(1) {
   left: -400%;
 }
@@ -180,6 +260,226 @@ body {
 }
 /* line 27, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(5) {
+  left: 0%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n5 > div:nth-child(6) {
+  left: 100%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n5 > div:nth-child(7) {
+  left: 200%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n5 > div:nth-child(8) {
+  left: 300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n5 > div:nth-child(9) {
+  left: 400%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n5 > div:nth-child(10) {
+  left: 500%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n6 > div:nth-child(1) {
+  left: -500%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n6 > div:nth-child(2) {
+  left: -400%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n6 > div:nth-child(3) {
+  left: -300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n6 > div:nth-child(4) {
+  left: -200%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n6 > div:nth-child(5) {
+  left: -100%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n6 > div:nth-child(6) {
+  left: 0%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n6 > div:nth-child(7) {
+  left: 100%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n6 > div:nth-child(8) {
+  left: 200%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n6 > div:nth-child(9) {
+  left: 300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n6 > div:nth-child(10) {
+  left: 400%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n7 > div:nth-child(1) {
+  left: -600%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n7 > div:nth-child(2) {
+  left: -500%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n7 > div:nth-child(3) {
+  left: -400%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n7 > div:nth-child(4) {
+  left: -300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n7 > div:nth-child(5) {
+  left: -200%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n7 > div:nth-child(6) {
+  left: -100%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n7 > div:nth-child(7) {
+  left: 0%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n7 > div:nth-child(8) {
+  left: 100%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n7 > div:nth-child(9) {
+  left: 200%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n7 > div:nth-child(10) {
+  left: 300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n8 > div:nth-child(1) {
+  left: -700%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n8 > div:nth-child(2) {
+  left: -600%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n8 > div:nth-child(3) {
+  left: -500%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n8 > div:nth-child(4) {
+  left: -400%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n8 > div:nth-child(5) {
+  left: -300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n8 > div:nth-child(6) {
+  left: -200%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n8 > div:nth-child(7) {
+  left: -100%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n8 > div:nth-child(8) {
+  left: 0%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n8 > div:nth-child(9) {
+  left: 100%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n8 > div:nth-child(10) {
+  left: 200%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n9 > div:nth-child(1) {
+  left: -800%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n9 > div:nth-child(2) {
+  left: -700%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n9 > div:nth-child(3) {
+  left: -600%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n9 > div:nth-child(4) {
+  left: -500%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n9 > div:nth-child(5) {
+  left: -400%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n9 > div:nth-child(6) {
+  left: -300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n9 > div:nth-child(7) {
+  left: -200%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n9 > div:nth-child(8) {
+  left: -100%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n9 > div:nth-child(9) {
+  left: 0%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n9 > div:nth-child(10) {
+  left: 100%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n10 > div:nth-child(1) {
+  left: -900%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n10 > div:nth-child(2) {
+  left: -800%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n10 > div:nth-child(3) {
+  left: -700%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n10 > div:nth-child(4) {
+  left: -600%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n10 > div:nth-child(5) {
+  left: -500%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n10 > div:nth-child(6) {
+  left: -400%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n10 > div:nth-child(7) {
+  left: -300%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n10 > div:nth-child(8) {
+  left: -200%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n10 > div:nth-child(9) {
+  left: -100%;
+}
+/* line 27, ../scss/7131.scss */
+#headerbg.n10 > div:nth-child(10) {
   left: 0%;
 }
 /* line 36, ../scss/7131.scss */
@@ -240,7 +540,7 @@ body {
 #header_control {
   position: absolute;
   right: 0;
-  margin-top: -10%;
+  margin-top: -17vh;
   display: inline-block;
   width: calc(94vw - 22vw);
   height: 10vh;
@@ -497,7 +797,6 @@ body {
 #content {
   position: absolute;
   left: 22vw;
-  border: 1px solid red;
   width: calc(100% - 22vw - 30px*2 );
   height: 85vh;
   padding: 30px;
@@ -539,140 +838,4 @@ body {
   left: 0;
   background-color: rgba(0, 0, 0, 0.7);
   z-index: -6;
-}
-
-.row{
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  display: inline-block;
-  border: 1px solid rgba(255,0,0,1);
-}
-.row > .column {
-  position: rela;
-  overflow: hidden;
-  left:0;
-  display:inline-block;
-  padding: 0 8px;
-  width: 30vw;
-  height: 30vh;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-.column {
-  float: left;
-  width: 25%;
-}
-
-/* The Modal (background) */
-.modal {
-  display: none;
-  position: fixed;
-  z-index: 1;
-  padding-top: 100px;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background-color: black;
-}
-
-/* Modal Content */
-.modal-content {
-  position: relative;
-  background-color: #fefefe;
-  margin: auto;
-  padding: 0;
-  width: 90%;
-  max-width: 1200px;
-}
-
-/* The Close Button */
-.close {
-  color: white;
-  position: absolute;
-  top: 10px;
-  right: 25px;
-  font-size: 35px;
-  font-weight: bold;
-}
-
-.close:hover,
-.close:focus {
-  color: #999;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.mySlides {
-  display: none;
-}
-
-/* Next & previous buttons */
-.prev,
-.next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -50px;
-  color: white;
-  font-weight: bold;
-  font-size: 20px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-  -webkit-user-select: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover,
-.next:hover {
-  background-color: rgba(0, 0, 0, 0.8);
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-.caption-container {
-  text-align: center;
-  background-color: black;
-  padding: 2px 16px;
-  color: white;
-}
-
-img.demo {
-  opacity: 0.6;
-  width: 40vw;
-}
-
-.active,
-.demo:hover {
-  opacity: 1;
-}
-
-img.hover-shadow {
-  transition: 0.3s
-}
-
-.hover-shadow:hover {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }

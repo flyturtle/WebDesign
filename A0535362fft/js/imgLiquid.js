@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $(".imgLiquidFill").imgLiquid({
+    $(".imgLiquidFill").imgLiquid({
  		fill: true,
          horizontalAlign: "center",
 		 verticalAlign: "center"		 
@@ -10,4 +10,9 @@ $(document).ready(function(){
          horizontalAlign: "top",
 		 verticalAlign: "center"		 
       }); 
+	  $(".imgLiquidTC").imgLiquid({
+		  fill:false,
+		  horizontalAlign:"top",
+		  verticlaAlign:"center"
+	  });
 }); 

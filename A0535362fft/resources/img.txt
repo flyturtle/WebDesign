@@ -1,5 +1,0 @@
-<div class="imgLiquid1920 imgLiquid" ><img onclick="openModal();currentSlide(1)" src="img/.jpg" alt='.jpg' /></div>
-
-
-<div class="imgLiquid1920 imgLiquid" ><img src="img/review.jpg" alt="review.jpg" /></div>
-   <div class="imgLiquid1920 imgLiquid" ><img src="img/witcher3_en_wallpaper_hearts_of_stone_game_cover_1920x1080_1446110366.png" alt="witcher3_en_wallpaper_hearts_of_stone_game_cover_1920x1080_1446110366.png" /></div>

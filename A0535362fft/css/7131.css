@@ -68,421 +68,422 @@ body {
   margin: 0;
   font-family: 'Lobster','Pacifico','Aldrich', cursive, sans-serif;
   background-color: black;
-  max-width: 98.5vw;
+  max-width: 99vw;
+  max-height: 99vh;
 }
 
 /* border: 1px solid rgba(255, 0, 0, 1); */
-/* line 14, ../scss/7131.scss */
+/* line 15, ../scss/7131.scss */
 #headerbg {
-  margin-top: 0;
+  margin: 0 auto;
   position: relative;
-  display: inline-block;
+  /* display: inline-block; */
   width: 100%;
-  height: 100vh;
+  height: 99vh;
   overflow: hidden;
   background-color: black;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n1 > div:nth-child(1) {
   left: 0%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n1 > div:nth-child(2) {
   left: 100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n1 > div:nth-child(3) {
   left: 200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n1 > div:nth-child(4) {
   left: 300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n1 > div:nth-child(5) {
   left: 400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n1 > div:nth-child(6) {
   left: 500%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n1 > div:nth-child(7) {
   left: 600%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n1 > div:nth-child(8) {
   left: 700%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n1 > div:nth-child(9) {
   left: 800%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n1 > div:nth-child(10) {
   left: 900%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(1) {
   left: -100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(2) {
   left: 0%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(3) {
   left: 100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(4) {
   left: 200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(5) {
   left: 300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(6) {
   left: 400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(7) {
   left: 500%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(8) {
   left: 600%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(9) {
   left: 700%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n2 > div:nth-child(10) {
   left: 800%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(1) {
   left: -200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(2) {
   left: -100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(3) {
   left: 0%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(4) {
   left: 100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(5) {
   left: 200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(6) {
   left: 300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(7) {
   left: 400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(8) {
   left: 500%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(9) {
   left: 600%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n3 > div:nth-child(10) {
   left: 700%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(1) {
   left: -300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(2) {
   left: -200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(3) {
   left: -100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(4) {
   left: 0%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(5) {
   left: 100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(6) {
   left: 200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(7) {
   left: 300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(8) {
   left: 400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(9) {
   left: 500%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n4 > div:nth-child(10) {
   left: 600%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(1) {
   left: -400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(2) {
   left: -300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(3) {
   left: -200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(4) {
   left: -100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(5) {
   left: 0%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(6) {
   left: 100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(7) {
   left: 200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(8) {
   left: 300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(9) {
   left: 400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n5 > div:nth-child(10) {
   left: 500%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n6 > div:nth-child(1) {
   left: -500%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n6 > div:nth-child(2) {
   left: -400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n6 > div:nth-child(3) {
   left: -300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n6 > div:nth-child(4) {
   left: -200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n6 > div:nth-child(5) {
   left: -100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n6 > div:nth-child(6) {
   left: 0%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n6 > div:nth-child(7) {
   left: 100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n6 > div:nth-child(8) {
   left: 200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n6 > div:nth-child(9) {
   left: 300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n6 > div:nth-child(10) {
   left: 400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n7 > div:nth-child(1) {
   left: -600%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n7 > div:nth-child(2) {
   left: -500%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n7 > div:nth-child(3) {
   left: -400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n7 > div:nth-child(4) {
   left: -300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n7 > div:nth-child(5) {
   left: -200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n7 > div:nth-child(6) {
   left: -100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n7 > div:nth-child(7) {
   left: 0%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n7 > div:nth-child(8) {
   left: 100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n7 > div:nth-child(9) {
   left: 200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n7 > div:nth-child(10) {
   left: 300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n8 > div:nth-child(1) {
   left: -700%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n8 > div:nth-child(2) {
   left: -600%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n8 > div:nth-child(3) {
   left: -500%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n8 > div:nth-child(4) {
   left: -400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n8 > div:nth-child(5) {
   left: -300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n8 > div:nth-child(6) {
   left: -200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n8 > div:nth-child(7) {
   left: -100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n8 > div:nth-child(8) {
   left: 0%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n8 > div:nth-child(9) {
   left: 100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n8 > div:nth-child(10) {
   left: 200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n9 > div:nth-child(1) {
   left: -800%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n9 > div:nth-child(2) {
   left: -700%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n9 > div:nth-child(3) {
   left: -600%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n9 > div:nth-child(4) {
   left: -500%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n9 > div:nth-child(5) {
   left: -400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n9 > div:nth-child(6) {
   left: -300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n9 > div:nth-child(7) {
   left: -200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n9 > div:nth-child(8) {
   left: -100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n9 > div:nth-child(9) {
   left: 0%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n9 > div:nth-child(10) {
   left: 100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n10 > div:nth-child(1) {
   left: -900%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n10 > div:nth-child(2) {
   left: -800%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n10 > div:nth-child(3) {
   left: -700%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n10 > div:nth-child(4) {
   left: -600%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n10 > div:nth-child(5) {
   left: -500%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n10 > div:nth-child(6) {
   left: -400%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n10 > div:nth-child(7) {
   left: -300%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n10 > div:nth-child(8) {
   left: -200%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n10 > div:nth-child(9) {
   left: -100%;
 }
-/* line 27, ../scss/7131.scss */
+/* line 28, ../scss/7131.scss */
 #headerbg.n10 > div:nth-child(10) {
   left: 0%;
 }
-/* line 36, ../scss/7131.scss */
+/* line 37, ../scss/7131.scss */
 #headerbg > div {
   position: absolute;
   left: 0;
@@ -495,7 +496,7 @@ body {
   -webkit-transition: left 0.3s;
   transition: left 0.3s;
 }
-/* line 47, ../scss/7131.scss */
+/* line 48, ../scss/7131.scss */
 #headerbg > div > img {
   position: absolute;
   left: 0;
@@ -503,21 +504,22 @@ body {
   width: 100%;
 }
 
-/* line 56, ../scss/7131.scss */
+/* line 57, ../scss/7131.scss */
 #contentbg {
+  display: none;
   position: absolute;
   width: 100%;
   z-index: -10;
   overflow: hidden;
 }
-/* line 63, ../scss/7131.scss */
+/* line 64, ../scss/7131.scss */
 #contentbg > div {
   position: relative;
   height: 100vh;
   overflow: hidden;
 }
 
-/* line 72, ../scss/7131.scss */
+/* line 73, ../scss/7131.scss */
 #main {
   position: relative;
   display: inline-block;
@@ -530,7 +532,7 @@ body {
   line-height: 0;
   clear: both;
 }
-/* line 78, ../scss/7131.scss */
+/* line 79, ../scss/7131.scss */
 #main > * {
   float: left;
   display: inline-block;
@@ -538,11 +540,11 @@ body {
 
 /* line 86, ../scss/7131.scss */
 #header_control {
-  position: absolute;
+  position: fixed;
+  bottom: 0;
   right: 0;
-  margin-top: -17vh;
   display: inline-block;
-  width: calc(94vw - 22vw);
+  width: calc(99vw - 22vw);
   height: 10vh;
   padding: 0 30px;
   text-align: left;
@@ -795,41 +797,57 @@ body {
 
 /* line 290, ../scss/7131.scss */
 #content {
+  display: none;
   position: absolute;
   left: 22vw;
   width: calc(100% - 22vw - 30px*2 );
   height: 85vh;
-  padding: 30px;
+  margin: 20px;
 }
-/* line 297, ../scss/7131.scss */
-#content.ctext {
+/* line 299, ../scss/7131.scss */
+#content > .ctext {
   position: fixed;
-  z-index: -100;
+  padding: 30px;
+  margin: 5px;
+}
+/* line 303, ../scss/7131.scss */
+#content > .ctext > h1 {
+  color: #eaef9b;
+  font-family: Lobster;
+  font-size: 50px;
+  text-align: center;
+  background-color: blueviolet;
+}
+/* line 310, ../scss/7131.scss */
+#content > .ctext > p {
+  background-color: blueviolet;
+  padding: 12px;
+  font-size: 30px;
 }
 
-/* line 304, ../scss/7131.scss */
+/* line 319, ../scss/7131.scss */
 #pshow {
   position: relative;
   width: calc(94vw - 22vw);
 }
-/* line 307, ../scss/7131.scss */
+/* line 322, ../scss/7131.scss */
 #pshow > * {
   background-color: rgba(0, 0, 0, 0.4);
   font-family: Aldrich;
 }
-/* line 311, ../scss/7131.scss */
+/* line 326, ../scss/7131.scss */
 #pshow h1 {
   text-align: center;
   font-size: 50px;
   color: rgba(213, 155, 246, 0.9);
 }
-/* line 316, ../scss/7131.scss */
+/* line 331, ../scss/7131.scss */
 #pshow P {
   font-size: 30px;
   color: rgba(131, 178, 113, 0.9);
 }
 
-/* line 322, ../scss/7131.scss */
+/* line 337, ../scss/7131.scss */
 #label {
   position: fixed;
   width: 100%;

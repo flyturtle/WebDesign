@@ -21,10 +21,28 @@ $(document).ready(function(){
 	$("#headerbg").attr('class', 'n' + _headerbg_now);
 	});
 
-	$('#header_down').click(function(){	
-		$('window').scrollTop();
-	     $('#header_control').fadeOut(2000);
-	});
+	$('#header_down').click(function(){
+		$('#headerbg').fadeOut(2000);
+		$('#header_control').fadeOut(2000,function(){
+		$('#menu').show(2000);
+		$('#contentbg').show(2000);
+		$('#content').show(2000);
+		});
+	});	
+	
+	$("#menu a:first-child").click(function(){
+		$('#content').fadeOut(2000);
+		$('#contentbg').fadeOut(2000);
+		$('#menu').fadeOut(2000,function(){
+			$('#headerbg').show(2000,function(){
+				$('#header_control').show(2000);
+				$('html, body').scrollTop(0);
+				});
+			});
+		});
+	
+	
+	
 });
 
 
